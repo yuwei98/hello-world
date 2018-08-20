@@ -1,3 +1,8 @@
 # hello-world
 存储库hello-world
-Hi Humans Ok
+  #include<iostream>
+  using namespace std;
+  int main(){
+    cout<<"Hello World";
+  return 0;
+  }
